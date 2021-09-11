@@ -221,7 +221,7 @@ const TimeLine = () => {
               </div>
               <div className="d-flex justify-content-between flex-nowrap text-center">
                 <UrlButton
-                  href="https://github.com/akjha96/MernTipCaculator-FrontEnd"
+                  href="https://github.com/chaudharyshubham04/new-photo-gallery"
                   target="_blank"
                 >
                   SOURCE CODE
