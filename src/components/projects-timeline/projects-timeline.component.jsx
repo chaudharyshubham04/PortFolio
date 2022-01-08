@@ -231,7 +231,7 @@ const TimeLine = () => {
             </div>
           </ImageEvent>
 
-          {/* Project: BLog App*/}
+          {/* Project: BLogging App*/}
           <ImageEvent
             date="01/07/2021"
             className="text-center"
